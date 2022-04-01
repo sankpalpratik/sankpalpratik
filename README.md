@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sankpalpratik
-- 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... M.Sc. Computer Applications
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello, my name is Pratik Sankpal.
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently pursuing M.Sc. Computer Applications
 - 📫 How to reach me ... +91-8830750583
 
 <!---
